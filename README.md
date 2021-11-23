@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "بروزرسانی جدیدی در دسترس است",
-  "Description": "این آپدیت اجباری میباشد",
+  "Description": "این آپدیت اجباری مید",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
