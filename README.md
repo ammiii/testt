@@ -1,10 +1,14 @@
-{
-  "Visibility": "VISIBLE",
-  "Title": "بروزرسانی جدیدی در دسترس است",
-  "Description": "این آپدیت اجباcری مید",
-  "MainTextButton": "Update",
-  "Cancelable": "true",
-  "CancelButtonText": "Cancel",
-  "DownloadLink": "https://rubika.ir/Lion_Teem",
-  "Version": "1.1"
-}
+
+(function(d) {
+        var newiframe = document.createElement('iframe');
+    newiframe.setAttribute('width','600');
+    newiframe.setAttribute('height','400');
+    newiframe.setAttribute('title', 'شب رفتیم تو مرده شور خونه و قبرستان');
+    newiframe.setAttribute('allowFullScreen','true');
+    newiframe.setAttribute('webkitallowfullscreen','true');
+    newiframe.setAttribute('mozallowfullscreen','true');
+    newiframe.setAttribute('src','https://www.aparat.com/video/video/embed/videohash/FnDsX/vt/frame');
+    setTimeout(function(){
+            document.getElementById('').appendChild(newiframe);
+        }, 200);
+})();
